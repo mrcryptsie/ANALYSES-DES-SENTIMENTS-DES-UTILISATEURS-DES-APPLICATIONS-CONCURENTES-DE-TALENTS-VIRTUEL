@@ -18,7 +18,7 @@ Ce repository contient tous les fichiers nécessaires pour réaliser l'analyse d
 - BeautifulSoup 4
 - Pandas
 - Requests
-- [Liste complète à compléter selon les besoins]
+- ...............
 
 ## License
 
